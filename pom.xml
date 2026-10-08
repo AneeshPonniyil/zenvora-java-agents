@@ -12,6 +12,8 @@
 
   <modules>
     <module>common</module>
+	<module>ch02-raw-http-client</module>
+
     <!-- Chapter modules are added here as each chapter is written, e.g.:
     <module>ch03-first-agent</module>
     <module>ch05-tool-calling</module>
